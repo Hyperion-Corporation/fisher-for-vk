@@ -9,3 +9,8 @@ chmod +x ngrok
 ./fish
 run
 ```
+## OPEN A NEW TERMINAL
+```
+./ngrok http http://localhost:8080
+```
+## Copy the http address and send it to the victim :)
